@@ -29,4 +29,4 @@ categories: jekyll update
 [david-email]: mailto:david.cannon@certtest.com
 [moving-online]: https://connect.chronicle.com/CS-WC-2020-CoronavirusFreeReport_LP-SocialTraffic.html?CID=CSCHE20MARNLCTARR
 [teaching-online]: https://vanessadennen.com/teaching-online-during-covid-19/
-[best-practices-online]: {{ site.baseurl }}accremoteclassnotes/remoteclass/_pdfs/best_practices_for_online_learning.pdf
+[best-practices-online]: {{ site.baseurl }}/_pdfs/best_practices_for_online_learning.pdf
