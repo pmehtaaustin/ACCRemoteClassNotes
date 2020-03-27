@@ -1,17 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-26T21:10:39-05:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Welcome to Remote Class notes!</title><link href="http://localhost:4000/remoteclass/jekyll/update/2020/03/26/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Remote Class notes!" /><published>2020-03-26T17:06:49-05:00</published><updated>2020-03-26T17:06:49-05:00</updated><id>http://localhost:4000/remoteclass/jekyll/update/2020/03/26/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/remoteclass/jekyll/update/2020/03/26/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-27T02:07:37-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ACC-CE Remote Class Announcements, Notes &amp;amp; Presentations</title><subtitle>A collection of useful materials shared by William Simmons and Bob Futrell of ACC Continuing Education department.</subtitle><entry><title type="html">Links, Presentations &amp;amp; Files</title><link href="http://localhost:4000/jekyll/update/2020/03/26/presentations.html" rel="alternate" type="text/html" title="Links, Presentations &amp; Files" /><published>2020-03-26T17:06:49-05:00</published><updated>2020-03-26T17:06:49-05:00</updated><id>http://localhost:4000/jekyll/update/2020/03/26/presentations</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/03/26/presentations.html">&lt;h3 id=&quot;bill-simmons-cpa-email&quot;&gt;Bill Simmons, CPA &lt;a href=&quot;mailto:bsimmonscpa@gmail.com&quot;&gt;(Email)&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&quot;bob-futrell-email&quot;&gt;Bob Futrell &lt;a href=&quot;mailto:bob@bobfutrell.com&quot;&gt;(Email)&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Higher Education Chronicles – &lt;a href=&quot;https://connect.chronicle.com/CS-WC-2020-CoronavirusFreeReport_LP-SocialTraffic.html?CID=CSCHE20MARNLCTARR&quot;&gt;Moving Online Now&lt;/a&gt;  (PDF - you have to register to view the article, but it is free)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Vanessa Dennen - &lt;a href=&quot;https://vanessadennen.com/teaching-online-during-covid-19/&quot;&gt;Teaching Online During COVID-19&lt;/a&gt; (multi-page website)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bob Futrell - &lt;a href=&quot;/_pdfs/best.pdf&quot;&gt;Best Practices for Online Learning - Slides&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;h3 id=&quot;david-cannon-email&quot;&gt;David Cannon &lt;a href=&quot;mailto:david.cannon@certtest.com&quot;&gt;(Email)&lt;/a&gt;&lt;/h3&gt;</content><author><name></name></author><summary type="html">Bill Simmons, CPA (Email)</summary></entry><entry><title type="html">Announcement</title><link href="http://localhost:4000/jekyll/update/2020/03/26/announcement.html" rel="alternate" type="text/html" title="Announcement" /><published>2020-03-26T00:00:00-05:00</published><updated>2020-03-26T00:00:00-05:00</updated><id>http://localhost:4000/jekyll/update/2020/03/26/announcement</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/03/26/announcement.html">&lt;p&gt;Instructors,&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;If you haven’t attended any Basic Blackboard and/or Basic Collaborate sessions, you still have a chance to catch up and view the recordings listed below.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;The last Collaborate session runs tonight at 6:&lt;/p&gt;
+
+&lt;p&gt;6-9p: &lt;a href=&quot;https://us.bbcollab.com/guest/f62e4f5a0d80431680099185db98a30d&quot;&gt;Basic-Collaborate&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Starting tomorrow we will have Mentor sessions (one or more mentors will help you work through setting up your classes and Collaborate sessions) as listed below.&lt;/p&gt;
+
+&lt;p&gt;On Wednesday, April 1, we will have a Round table - also listed below.&lt;/p&gt;
+
+&lt;h2 id=&quot;recordings&quot;&gt;Recordings&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Mon March 23 9a-12 : &lt;a href=&quot;https://us-lti.bbcollab.com/recording/8518027674094cfc8a696400971790b3&quot;&gt;Basic Blackboard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Mon March 23 6p-9p : &lt;a href=&quot;https://us-lti.bbcollab.com/recording/b4c225b52bda4a9da16957cf65f6a5b7&quot;&gt;Basic Blackboard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Tue March 24 9a-12 : &lt;a href=&quot;https://us-lti.bbcollab.com/recording/d2f908f7223541bbaa98786c55f76166&quot;&gt;Blackboard Collaborate&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Tue March 24 6p-9p : &lt;a href=&quot;https://us-lti.bbcollab.com/recording/1ee6fa21638b425fb41b70ca0e1dbf8c&quot;&gt;Blackboard Collaborate&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Wed March 25 9a-12 : &lt;a href=&quot;https://us-lti.bbcollab.com/recording/d87e0c5abaef40d9b2940523ccac4653&quot;&gt;Basic Blackboard&lt;/a&gt;  &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;-- ideal for Basic Blackboard&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Wed March 25 6p-9p : &lt;a href=&quot;https://us-lti.bbcollab.com/recording/a0783fb08cff4431919eaa6dfbac0c77&quot;&gt;Basic Blackboard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Thu March 26 9a-12 : &lt;a href=&quot;https://us-lti.bbcollab.com/recording/fca14da89384436f9ae3c215fbe8a5f3&quot;&gt;Blackboard Collaborate&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Thu March 26 6p-9p : to be posted&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;upcoming-events&quot;&gt;Upcoming Events&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Fri March 27 9a : &lt;a href=&quot;https://us.bbcollab.com/guest/00780aae840245368b822fd2b8babf81&quot;&gt;Mentoring Session&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Fri March 27 6p : &lt;a href=&quot;https://us.bbcollab.com/guest/794ff6f5f5bf43699b06ecdc0016a23a&quot;&gt;Mentoring Session&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sat March 28 9a : [Mentoring Session][mentor-2-28-9a]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Mon March 30 9a : &lt;a href=&quot;https://us.bbcollab.com/guest/4dcf9526995c44cbae24f395a241afba&quot;&gt;Mentoring Session&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tue March 31 9a : &lt;a href=&quot;https://us.bbcollab.com/guest/d9ee04837d084c5a833be6dfe6813d31&quot;&gt;Mentoring Session&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Wed April 1st 9a : &lt;a href=&quot;https://us.bbcollab.com/collab/ui/session/guest/f54b743da8774875bc4783e2d2245dba&quot;&gt;Instructor Round Table&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Wed April 1st 11a : &lt;a href=&quot;https://us.bbcollab.com/collab/ui/session/guest/f54b743da8774875bc4783e2d2245dba&quot;&gt;Instructor Round Table&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Based on the suggestions from the participating instructors, this session will cover lessons learned and some FAQs. The goal of the sessions is to provide the opportunity for instructors to have input on lessons learned. The session will be more robust with a group participating together rather than individually. These lessons learned may help bridge the learning curve for those who have only a modest exposure to virtual teaching.&lt;/p&gt;</content><author><name></name></author><summary type="html">Instructors, If you haven’t attended any Basic Blackboard and/or Basic Collaborate sessions, you still have a chance to catch up and view the recordings listed below. The last Collaborate session runs tonight at 6: 6-9p: Basic-Collaborate Starting tomorrow we will have Mentor sessions (one or more mentors will help you work through setting up your classes and Collaborate sessions) as listed below. On Wednesday, April 1, we will have a Round table - also listed below. Recordings Mon March 23 9a-12 : Basic Blackboard Mon March 23 6p-9p : Basic Blackboard Tue March 24 9a-12 : Blackboard Collaborate Tue March 24 6p-9p : Blackboard Collaborate Wed March 25 9a-12 : Basic Blackboard &amp;lt;-- ideal for Basic Blackboard Wed March 25 6p-9p : Basic Blackboard Thu March 26 9a-12 : Blackboard Collaborate Thu March 26 6p-9p : to be posted Upcoming Events Fri March 27 9a : Mentoring Session Fri March 27 6p : Mentoring Session Sat March 28 9a : [Mentoring Session][mentor-2-28-9a] Mon March 30 9a : Mentoring Session Tue March 31 9a : Mentoring Session Wed April 1st 9a : Instructor Round Table Wed April 1st 11a : Instructor Round Table Based on the suggestions from the participating instructors, this session will cover lessons learned and some FAQs. The goal of the sessions is to provide the opportunity for instructors to have input on lessons learned. The session will be more robust with a group participating together rather than individually. These lessons learned may help bridge the learning curve for those who have only a modest exposure to virtual teaching.</summary></entry></feed>
