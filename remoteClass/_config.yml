@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ACC-CE Remote Class Notes & Presentations
+title: ACC-CE Remote Class Announcements, Notes & Presentations
 email: pmehta@austincc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of useful materials shared by William Simmons and Bob Futrell of ACC
   Continuing Education department.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/accremoteclassnotes/remoteclass" # the subpath of your site, e.g. /blog
 url: "http://pmehtaaustin.github.io/accremoteclassnotes/remoteclass" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: piyushmehta
 github_username:  pmehtaaustin
