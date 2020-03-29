@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Recordings & Upcoming Classes"
+title:  "Announcement"
 date:   2020-03-26
 categories: jekyll update
 ---
